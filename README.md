@@ -15,4 +15,4 @@ apt install git -y
 apt install python -y
 git clone https://github.com/KelvinTXCybers/dcd_vinxcode
 cd dcd_vinxcode
-python dcd_vinxcode
+python dcd_vinxcode.py
