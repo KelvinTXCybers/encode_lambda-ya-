@@ -13,6 +13,6 @@ Jalankan perintah berikut di terminal:
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
-git clone https://github.com/USERNAME/dcd
+git clone https://github.com/KelvinTXCybers/dcd
 cd dcd
 python dcd.py
