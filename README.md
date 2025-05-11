@@ -1,6 +1,6 @@
-# encode_lambda-ya-
+# Script ini untik.Encode file python Biar aman
+# Dari Pericode Handal dan Penjual script
 
-# dcd.py
 ![Profile Picture](IMG_20250511_102814_154.jpg)
 
 Script untuk encoding file Python menggunakan marshal.
@@ -14,6 +14,7 @@ Jalankan perintah berikut di terminal:
 apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
-git clone https://github.com/KelvinTXCybers/dcd_vinxcode
+git clone
+(https://github.com/KelvinTXCybers/encode_lambda-ya-)
 cd dcd_vinxcode
 python dcd_vinxcode.py
