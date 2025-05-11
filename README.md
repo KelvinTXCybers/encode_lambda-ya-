@@ -1,4 +1,4 @@
-# Script ini untik.Encode file python Biar aman
+# Script ini untuk Encode file python Biar aman
 # Dari Pericode Handal dan Penjual script
 
 ![Profile Picture](IMG_20250511_102814_154.jpg)
