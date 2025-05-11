@@ -11,7 +11,7 @@ Jalankan perintah berikut di terminal:
 
 ```bash
 
-apt update -y & apt upgrade -y
+apt update -y && apt upgrade -y
 apt install git -y
 apt install python -y
 git clone https://github.com/KelvinTXCybers/encode_lambda-ya-
