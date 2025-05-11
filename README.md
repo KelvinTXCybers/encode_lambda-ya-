@@ -2,6 +2,8 @@
 
 # dcd.py
 
+IMG_20250511_101946jpg
+
 Script untuk encoding file Python menggunakan marshal.
 
 ## Cara Install dan Jalankan
