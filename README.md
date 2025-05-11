@@ -1,8 +1,7 @@
 # encode_lambda-ya-
 
 # dcd.py
-![Profile Picture]()
-![Profile Picture.(IMG_20250511_101946jpg)
+![Profile Picture].(IMG_20250511_101946.jpg)
 
 Script untuk encoding file Python menggunakan marshal.
 
